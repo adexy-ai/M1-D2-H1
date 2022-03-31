@@ -39,13 +39,20 @@ img {
     background-color: azure;
     box-shadow: 0.2;
 }
+#entire__margin {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.wow__margin {
+    margin-left: 25%;
+    margin-right: 25%;
+}
 h3 {
     font-weight: bold;
     font-size: small;
 }
 h2 {
     font-weight: lighter;
-    font-size: large;
-    
+    font-size: large; 
 }
 .link { color:green;}
