@@ -1,0 +1,51 @@
+<style>body {
+    background-color: rgb(244, 248, 250);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.center_alignment {
+    text-align: center;
+}
+
+img {
+    border-radius: 5px;
+}
+
+#image__name {
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    color: rgb(146, 136, 136);
+}
+.emphasis {
+    color: red;
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+}
+.underline {
+    color: green;
+    font-size: smaller;
+    font-weight: lighter;
+    text-decoration: underline;
+}
+.bk__shadow {
+    background-color: aliceblue;
+    box-shadow: azure;
+    background-image: -o-linear-gradient();
+    box-shadow: 0.2;
+}
+.more__feature {
+    background-image: -o-linear-gradient();
+    background-color: azure;
+    box-shadow: 0.2;
+}
+h3 {
+    font-weight: bold;
+    font-size: small;
+}
+h2 {
+    font-weight: lighter;
+    font-size: large;
+    
+}
+.link { color:green;}
